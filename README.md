@@ -53,7 +53,7 @@ Todo-API-SQLite
 
 ## Deployment
 
-This project is deployed on Glitch at [[your-glitch-url]](https://sly-future-flyaway.glitch.me/).
+This project is deployed on Glitch at - https://sly-future-flyaway.glitch.me/.
 
 ## Database Schema
 
